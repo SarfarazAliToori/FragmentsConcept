@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fragment Concept Kotlin</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">Welcome</string>
+    <string name="fragment_one">Fragment One</string>
+    <string name="fragment_two">Fragment Two</string>
+    <string name="fragment_three">Fragment Three</string>
+    <string name="fragment_four">Fragment Four</string>
+    <string name="fragment_five">Fragment Five</string>
+    <string name="fragment_six">Fragment Six</string>
+    <string name="fragment_seven">Fragment Seven</string>
+    <string name="fragment_eight">Fragment Eight</string>
+    <string name="fragment_nine">Fragment Nine</string>
+    <string name="fragment_ten">Replace Fragment</string>
+</resources>
